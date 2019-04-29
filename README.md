@@ -46,6 +46,7 @@ The following heatmap shows how correlated one genre is to another. As you can s
 
 
 Best Model:
+
 - Performed  TFIDF word vectorization of 5000 synopsis using NLTK from The MovieDb dataset  
 - Tuned hyperparameters using gridsearchcv with multioutputclassifer running SVC model which gave us our best score on our test data at 0.19 which is better than the base case of .09. 
 

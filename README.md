@@ -30,7 +30,8 @@ Word Cloud for All Movies Classified as Action
 Word Cloud for all Movies Classified as Comedies
 ![](/Media/wcComedy.png.png)
  
-
+ 
+ 
 ![](/Media/pie1.png)
 
 The following heatmap shows how correlated one genre is to another. As you can see comedy and thriller are the least correlated. Which is intuitive.  

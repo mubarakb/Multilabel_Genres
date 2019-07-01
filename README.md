@@ -1,6 +1,6 @@
 # Multioutput Classifer for Movie Genre
 
-By: Mubarak Bajwa & Samira Munir
+By: Samira Munir & Mubarak Bajwa
 
 ![](/Media/pic.jpeg)
 
